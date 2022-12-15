@@ -1,0 +1,90 @@
+.rodape{
+    position: absolute;
+     top: 1146px;
+
+}
+footer img{
+    
+width: 1440px;
+
+height: 230px;
+}
+.conteudofooter {
+
+    position: absolute;
+    top: 0px;
+    width: 1440px;
+    height: 230px;
+    opacity: 0.8;
+    background-color:  #525252;
+}
+
+  .footer1{
+    position: absolute;
+    left: 14%;
+    top: 0px;
+    
+  }
+  .footer2{
+    position: absolute;
+    left: 48%;
+    top: 0px;
+  }
+  .footer3{
+    position: absolute;
+    left: 79%;
+    top: 0px;
+  }
+.missao {
+    position: absolute;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FE6C05;
+  }
+
+  .textofooter1{
+    position: absolute;
+    width: 421.59px;
+    height: 54px;
+    left: 33.05px;
+    top:100px;
+
+  }
+
+  
+  .textofooter2{
+    position: absolute;
+width: 421.59px;
+height: 54px;
+left: 513.71px;
+top: 100px;
+  }
+
+  
+  .textofooter3{
+    position: absolute;
+width: 421.59px;
+height: 73px;
+left: 994.38px;
+top: 100px;
+  }
+  .textofooter{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: rgba(245, 245, 245, 0.8);
+
+  }
+
+ 
