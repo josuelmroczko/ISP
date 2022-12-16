@@ -1,4 +1,4 @@
-import './script'
+// import './script'
 import './Banner.css'
 
 function Banner (){
