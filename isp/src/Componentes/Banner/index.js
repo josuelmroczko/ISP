@@ -1,4 +1,4 @@
-// import './script'
+//import './script'
 import './Banner.css'
 
 function Banner (){
@@ -16,8 +16,8 @@ function Banner (){
    
     <div className="container-images">
 
-      <img src="./imagens/banner1.jpg" alt="girl" class="slider on"/>
-      <img src="./imagens/capoeira1.jpg" alt="girl" class="slider"/>
+      <img src="./imagens/banner1.jpg" alt="girl" className="slider on"/>
+      <img src="./imagens/capoeira1.jpg" alt="girl" className="slider"/>
     </div>
 
 <div className='seta2'>
