@@ -12,14 +12,14 @@ const ConteudoBanner = () =>{
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel est tortor.</p>
 </div>
 
-   <div className='botaosaibamais' >
+   
+
+<div className='botaosaibamais' >
  <button>Saiba mais</button>
    </div>
-
+   
+   
    <div className='barratitulo'></div>
-   
-   
-
      </div>
     )
 }

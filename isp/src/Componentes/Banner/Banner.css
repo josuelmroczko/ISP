@@ -1,15 +1,50 @@
 
-.banner{
-    position: absolute
-   
+.container-slider {
+  display: flex;
+  width: 1440px;
+
+  min-height: 500px;
+  align-items: center;
+  justify-content: center;
+  
 }
 
-.banner img{
-    
+.container-images {
+  position: relative;
+  display: flex;
+  align-items: center;
 
-    width: 1440px;
-    height: 535px;
-    right: 0;
-    opacity: 0.9;
-    
+  width: 1440px;
+  
+}
+
+.slider {
+    position: absolute;
+  opacity: 0;
+  transition: opacity .2s;
+height: 500px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.on {
+  opacity: 1;
+}
+
+#prev-button, #next-button {
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+}
+
+#prev-button img, #next-button img {
+  width: 100%;
+  height: 100%;
+}
+
+#prev-button {
+  transform: rotate(180deg);
 }
